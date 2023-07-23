@@ -41,7 +41,7 @@ FileSearcher::FileSearcher(int PrintOption)
 	if (PrintOption == 0)
 		toFile = false;
 	else if (PrintOption == 1)
-		toFile = false;
+		toFile = true;
 	else toFile = false;
 }
 
