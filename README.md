@@ -1,5 +1,8 @@
 # File-Searcher
 This program can find any file in your PC.
+# Requirements
+* OS: Windows 10
+* Compiler: G++ (or another)
 # Quick install
 ```
 git clone https://github.com/SerhiiPavlyk/Translator
